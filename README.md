@@ -1,5 +1,5 @@
 OTT Streaming App (Android)
-
+Here APK folder inside i placed app apk
 An Android OTT (Over-The-Top) streaming application built using Java following MVVM architecture, inspired by platforms like Netflix and Hotstar.
 
 Features
