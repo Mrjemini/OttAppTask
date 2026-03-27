@@ -27,11 +27,12 @@ ViewModel
 LiveData
 RecyclerView
 
-Screenshots
-1.Login Page
-<img width="1080" height="1920" alt="Login" src="https://github.com/user-attachments/assets/62b261a2-2394-48db-9642-a1c3f8bd06cb" />
+Screenshots :
+### Login Page
 
-2.Home Page
+<img src="https://github.com/user-attachments/assets/62b261a2-2394-48db-9642-a1c3f8bd06cb" width="250" />
 
-<img width="1080" height="1920" alt="Home" src="https://github.com/user-attachments/assets/32474945-c78e-4c59-8d65-aa8152b28435" />
+### Home Page
+
+<img src="https://github.com/user-attachments/assets/32474945-c78e-4c59-8d65-aa8152b28435" width="250" />/>
 
