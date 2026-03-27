@@ -1,0 +1,11 @@
+<resources>
+    <style name="Base.Theme.OttApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/sun_red</item>
+        <item name="colorSecondary">@color/sun_dark_gray</item>
+        <item name="android:statusBarColor">@color/sun_red</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+    <style name="Theme.OttApp" parent="Base.Theme.OttApp" />
+</resources>

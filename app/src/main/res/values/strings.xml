@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sun Direct OTT</string>
+    <string name="tata_ipl_2026_10m_cricket">TATA IPL 2026 • 10m • Cricket</string>
+    <string name="sun_direct_ott">Sun Direct OTT</string>
+    <string name="enter_your_mobile_number_to_log_in">Enter your mobile number to log in</string>
+    <string name="lbl_mobile_number">Mobile Number</string>
+    <string name="lbl_9847201856">9847201856</string>
+    <string name="lbl_login">LOGIN</string>
+    <string name="lbl_sun_direct">Sun Direct</string>
+    <string name="lbl_todo">TODO</string>
+    <string name="lbl_no_internet_connection">No Internet Connection</string>
+    <string name="lbl_please_check_your_network_settings_and_try_again">Please check your network settings and try again.</string>
+    <string name="lbl_retry">RETRY</string>
+    <string name="lbl_from_the_camp">FROM THE CAMP</string>
+
+</resources>
